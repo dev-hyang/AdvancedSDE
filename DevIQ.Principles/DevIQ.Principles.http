@@ -1,0 +1,6 @@
+@DevIQ.Principles_HostAddress = http://localhost:5076
+
+GET {{DevIQ.Principles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
