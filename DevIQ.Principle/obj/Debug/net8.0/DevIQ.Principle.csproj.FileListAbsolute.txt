@@ -1,0 +1,15 @@
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\bin\Debug\net8.0\DevIQ.Principle.exe
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\bin\Debug\net8.0\DevIQ.Principle.deps.json
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\bin\Debug\net8.0\DevIQ.Principle.runtimeconfig.json
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\bin\Debug\net8.0\DevIQ.Principle.dll
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\bin\Debug\net8.0\DevIQ.Principle.pdb
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.AssemblyInfoInputs.cache
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.AssemblyInfo.cs
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.csproj.CoreCompileInputs.cache
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.sourcelink.json
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.dll
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\refint\DevIQ.Principle.dll
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.pdb
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\DevIQ.Principle.genruntimeconfig.cache
+C:\hangyang\repos\hyang\AdvancedSDE\DevIQ.Principle\obj\Debug\net8.0\ref\DevIQ.Principle.dll

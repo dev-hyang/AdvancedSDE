@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIQ.Principles", "DevIQ.P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIQ.UnitTest", "DevIQ.UnitTest\DevIQ.UnitTest.csproj", "{5C02913C-D9C3-4BCB-9E95-0F9224139783}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIQ.Principle", "DevIQ.Principle\DevIQ.Principle.csproj", "{0B7AFC63-2E03-402D-9DDC-32D35078FE88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{5C02913C-D9C3-4BCB-9E95-0F9224139783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C02913C-D9C3-4BCB-9E95-0F9224139783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C02913C-D9C3-4BCB-9E95-0F9224139783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7AFC63-2E03-402D-9DDC-32D35078FE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7AFC63-2E03-402D-9DDC-32D35078FE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7AFC63-2E03-402D-9DDC-32D35078FE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7AFC63-2E03-402D-9DDC-32D35078FE88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
